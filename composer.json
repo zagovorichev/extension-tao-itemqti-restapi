@@ -1,6 +1,6 @@
 {
 
-    "name": "oat/extension-tao-itemqti-restapi",
+    "name": "oat-sa/extension-tao-itemqti-restapi",
     "description" : "Implementation of the Rest API for the QTI items",
     "type" : "tao-extension",
     "authors" : [
